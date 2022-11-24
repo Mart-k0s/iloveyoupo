@@ -12,6 +12,6 @@
 ---
 
 >There are multiple agents to choose from, there are currently 18 agents to choose from. 
-![image](https://user-images.githubusercontent.com/118117755/203693823-f0c2fcf7-32d9-4cda-addf-f3d5324f07fb.png = 250x500)
-![image](https://user-images.githubusercontent.com/118117755/203693958-b8237fe6-6e6b-4d02-8a38-c47f7fc2851f.png = 250x500)
+![image](https://user-images.githubusercontent.com/118117755/203693823-f0c2fcf7-32d9-4cda-addf-f3d5324f07fb.png =250x500)
+![image](https://user-images.githubusercontent.com/118117755/203693958-b8237fe6-6e6b-4d02-8a38-c47f7fc2851f.png =250x500)
 .
